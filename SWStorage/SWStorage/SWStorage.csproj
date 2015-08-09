@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Constant\ListenerType.cs" />
+    <Compile Include="RequestHandlers\BaseHandler.cs" />
+    <Compile Include="RequestHandlers\HttpHandler.cs" />
+    <Compile Include="Server.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

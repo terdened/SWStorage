@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SWStorage
+namespace SWStorage.Constant
 {
-    class Program
+    class ListenerType
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
