@@ -4,3 +4,17 @@ D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\SWStorage.pdb
 D:\PhD\SWStorage\SWStorage\SWStorage\obj\Debug\SWStorage.csprojResolveAssemblyReference.cache
 D:\PhD\SWStorage\SWStorage\SWStorage\obj\Debug\SWStorage.exe
 D:\PhD\SWStorage\SWStorage\SWStorage\obj\Debug\SWStorage.pdb
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\dotNetRDF.Data.Virtuoso.dll
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\dotNetRDF.dll
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\dotNetRDF.Query.FullText.dll
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\HtmlAgilityPack.dll
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\Lucene.Net.dll
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\Newtonsoft.Json.dll
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\OpenLink.Data.Virtuoso.dll
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\VDS.Common.dll
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\dotNetRDF.pdb
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\dotNetRDF.xml
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\dotNetRDF.Data.Virtuoso.pdb
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\dotNetRDF.Data.Virtuoso.xml
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\dotNetRDF.Query.FullText.pdb
+D:\PhD\SWStorage\SWStorage\SWStorage\bin\Debug\dotNetRDF.Query.FullText.xml
